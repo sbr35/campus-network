@@ -1,0 +1,9 @@
+.nyc_output/
+coverage/
+user-service/node_modules/
+user-service/npm-debug.log
+user-service/test/*.log
+user-service/.env
+user-service/*.log
+user-service/package-lock.json
+.vscode/
